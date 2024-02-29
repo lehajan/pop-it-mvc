@@ -1,0 +1,14 @@
+{
+    "name": "lehajan/prak",
+    "description": "qweasd",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lehajan",
+            "email": "soldatov.alex2000@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
